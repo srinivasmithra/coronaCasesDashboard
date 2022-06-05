@@ -1,0 +1,75 @@
+.header{
+    color:greenyellow;
+   
+    font-size: 30px;
+    font-style:italic;
+    margin-right: 20px;
+    margin-bottom: -200px   
+
+}
+body{ 
+    background-image: url('https://image.shutterstock.com/image-illustration/image-flu-covid19-virus-cell-260nw-1661849266.jpg');
+    background-repeat: no-repeat;
+    position: static;
+    overflow-x: hidden; 
+    overflow:auto;
+    margin-left: 0px;
+    background-size:cover;
+}
+.topnav {
+    overflow:hidden;
+    width:1450px;
+    padding: 10px;
+    margin-right:auto;
+    margin: auto;
+    background-color:darkcyan;
+    margin-bottom:0px;
+    position: fixed;
+    top:-20px;
+    margin-left:0px;
+    left: 0px;
+    background-attachment: fixed;
+  background-position: center;
+    overflow: hidden;
+ 
+    
+}
+.topnav a{
+    float:left;
+    display:block;
+    color:#f2f2f2;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration:none;
+}
+.topnav a:hover{
+    background-color:coral;
+    color:black:
+}
+.topnav a.about{
+    color: black;
+}
+.topnav a.contact{
+    float: right;
+    margin-right: 10px;
+}
+.topnav a.helpline{
+    float: right;
+    
+}
+.topnav span.header{
+    font-size: 30px;
+}
+.footer{
+    display: block;
+    width: 100%;
+    background-color:cornsilk;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    height: auto;
+    bottom: 0;
+    
+    text-align: center;
+    
+}
